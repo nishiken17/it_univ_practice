@@ -1,0 +1,14 @@
+body {
+    font-family: serif;
+}
+.pic{
+    text-align: center;
+    width: 2px;
+    height: 2px;
+   
+}
+
+p:hover{
+    background-color:rgba(187, 216, 214, 0.473);
+
+}
